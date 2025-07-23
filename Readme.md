@@ -13,9 +13,7 @@
   
   ETAPA 1:
   -[AWS Direct Connect e Amazon RDS]
-  -[Conectividade Segura On-Premises a partir da infraestrutura local, utilize o AWS Direct Connect para uma conexão de rede dedicada. Amazon RDS:Oferece alta disponibilidade e gerenciamento simplificado.
-
-]
+  -[Conectividade Segura On-Premises a partir da infraestrutura local, utilize o AWS Direct Connect para uma conexão de rede dedicada. Amazon RDS:Oferece alta disponibilidade e gerenciamento simplificado.]
   -[ AWS Direct Connect :
   A empresa contrata um parceiro da AWS para instalar uma conexão de fibra óptica dedicada que vai do seu data center local até um Ponto de Presença (PoP) do Direct Connect. Este é um local físico onde a AWS tem sua infraestrutura de rede.
   Conexão Privada: Essa fibra estabelece um link direto e privado entre a rede da empresa e a rede global da AWS, contornando completamente a internet pública.
